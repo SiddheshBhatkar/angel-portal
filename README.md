@@ -141,5 +141,16 @@ Technical Stack -
 
    h. MySQL DB.
 
+Git Steps - 
 
+1. Install git on computer.
+2. Open window explorer and go to the project root directory and right click and select GitBash option.
+
+3. Command Flow -
+   a. git init
+   b. git add .
+   c. git commit -m "Code Commit"
+   d. git branch -M main
+   e. git remote  add origin https://github.com/SiddheshBhatkar/angel-portal.git
+   f. git push -u origin main
       
